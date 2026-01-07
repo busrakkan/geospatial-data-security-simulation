@@ -1,7 +1,8 @@
-| Dataset Type / Risk Level | ISO Control Area    | Notes / Recommendations                   |
-| ------------------------- | ------------------- | ----------------------------------------- |
-| all                       | Access Control      | Apply role-based access                   |
-| high                      | Data Protection     | Encrypt sensitive datasets                |
-| all                       | Backup & Recovery   | Schedule regular backups                  |
-| all                       | Incident Management | Document incident response procedure      |
-| medium / high             | Asset Management    | Maintain asset inventory & classification |
+Dataset Type / Risk Level,ISO Control Area,Notes / Recommendations
+all,A.8 Asset Management,"Maintain inventory & classification of datasets"
+all,A.9 Access Control,"Role-based access: admin, analyst, guest"
+high,A.10 Cryptography,"Encrypt sensitive datasets"
+all,A.12 Operations Security,"Ensure proper backup, logging, patching"
+all,A.12.4 Logging & Monitoring,"Log all access attempts and review regularly"
+all,A.16 Information Security Incident Management,"Document and report incidents"
+medium / high,A.13 Communications Security,"Secure transfer of sensitive data"
