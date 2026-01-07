@@ -1,0 +1,22 @@
+Asset,Risk Level
+survey_data.csv,medium
+drone_images.csv,high
+client_locations.csv,high
+terrain_maps.csv,medium
+elevation_models.csv,medium
+land_parcels.csv,high
+traffic_patterns.csv,medium
+satellite_imagery.csv,high
+weather_data.csv,low
+topographic_maps.csv,medium
+infrastructure_layers.csv,high
+demographics_data.csv,high
+hydrology_layers.csv,medium
+forest_cover.csv,medium
+utility_networks.csv,high
+protected_areas.csv,high
+soil_maps.csv,medium
+urban_planning.csv,high
+emergency_routes.csv,high
+geological_surveys.csv,medium
+
