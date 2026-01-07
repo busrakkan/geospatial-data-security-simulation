@@ -1,0 +1,33 @@
+# Incident Reporting Procedure
+## GeoMaps Consulting
+
+### Purpose
+To provide a structured process for reporting, responding to, and documenting information security incidents.
+
+### Scope
+Covers all incidents that may impact confidentiality, integrity, or availability of datasets.
+
+### Procedure
+
+1. **Identification**  
+   - Any employee who notices unusual activity, lost devices, or potential breaches must immediately report it.  
+
+2. **Reporting**  
+   - Report incidents via email to security@geomapsconsulting.com  
+   - Include: Date, Time, User(s) involved, Dataset affected, Description of incident.
+
+3. **Immediate Actions**  
+   - Disconnect affected devices from the network if required.  
+   - Preserve logs and evidence.
+
+4. **Investigation & Mitigation**  
+   - IT Security Officer investigates the incident.  
+   - Apply corrective measures to prevent recurrence (e.g., patch systems, revoke credentials).
+
+5. **Documentation**  
+   - Record all incidents in the access_log.txt and an internal Incident Log.  
+   - Review lessons learned monthly.
+
+6. **Follow-up**  
+   - Notify management of critical incidents.  
+   - Update policies or training if needed.

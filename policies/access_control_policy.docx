@@ -1,0 +1,25 @@
+# Access Control Policy
+## GeoMaps Consulting
+
+### Purpose
+To define how access to geospatial datasets and IT systems is granted, monitored, and revoked.
+
+### Roles and Permissions
+
+| Role    | Access Level                                           |
+|---------|-------------------------------------------------------|
+| Admin   | Full access to all datasets, servers, cloud storage. |
+| Analyst | Access to datasets relevant to analytics only.       |
+| Guest   | View-only access to selected datasets.               |
+
+### Access Rules
+1. Role-based access is mandatory; no shared credentials.  
+2. High-risk datasets require additional approval for access.  
+3. All access attempts are logged and reviewed monthly.  
+4. Multi-Factor Authentication (MFA) is required for Admin accounts.  
+5. Temporary access for contractors must be approved and revoked after the project ends.
+
+### Password Requirements
+- Minimum 12 characters, mix of letters, numbers, symbols.  
+- Change passwords every 90 days.  
+- Never reuse previous passwords.

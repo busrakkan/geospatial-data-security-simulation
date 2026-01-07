@@ -1,0 +1,29 @@
+# Information Security Policy
+## GeoMaps Consulting
+
+### Purpose
+To protect the confidentiality, integrity, and availability of geospatial data managed by GeoMaps Consulting, including survey data, client location data, drone imagery, and proprietary mapping datasets.
+
+### Scope
+Applies to all employees, contractors, and third-party collaborators who access GeoMaps Consulting IT systems and datasets.
+
+### Policy
+
+1. **Data Classification**  
+   - All datasets are classified as Low, Medium, or High sensitivity.  
+   - Sensitive data must be handled according to assigned risk level.
+
+2. **Confidentiality**  
+   - Employees must not share sensitive datasets externally without proper authorization.  
+   - All client location data is treated as highly confidential.
+
+3. **Integrity & Availability**  
+   - Datasets must be backed up regularly.  
+   - Access to datasets is restricted based on roles (Admin, Analyst, Guest).
+
+4. **Security Awareness**  
+   - All staff must complete annual security awareness training.  
+   - Phishing or suspicious activity must be reported immediately.
+
+5. **Compliance**  
+   - All staff must comply with relevant standards (ISO/IEC 27001) and regulations (e.g., GDPR, if applicable).
