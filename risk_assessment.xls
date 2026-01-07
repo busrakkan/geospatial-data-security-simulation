@@ -1,0 +1,11 @@
+Asset	Threat	Impact	Likelihood	Risk Level	Suggested Control
+GIS Server	Unauthorized access / hacking	High	Medium	High	MFA, role-based access, regular audit logs
+GIS Server	Malware / ransomware infection	High	Medium	High	Antivirus, patch management, regular backups
+Laptops / PCs	Theft or loss	Medium	Medium	Medium	Full-disk encryption, strong passwords, lock screens
+Laptops / PCs	Accidental deletion or data loss	Medium	Medium	Medium	Backup and recovery plan, user training
+Cloud Storage	Misconfigured permissions	High	Medium	High	Access review, encryption, logging of all file changes
+Cloud Storage	Data leakage / unauthorized sharing	High	Medium	High	Role-based access, training, monitoring
+Drone Data	Data corruption / loss	High	Low	Medium	Regular backup, encryption, verification after upload
+Drone Data	Theft or physical damage	Medium	Medium	Medium	Secure storage, insurance, staff training
+Employee Emails	Phishing / social engineering	High	Medium	High	Awareness training, email filtering, MFA
+GIS Software	Vulnerabilities / outdated versions	Medium	Medium	Medium	Regular patching, software updates, vendor support
