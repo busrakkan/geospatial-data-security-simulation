@@ -140,7 +140,7 @@ This project requires the following Python packages:
 
 1. Ensure **all CSV files** (`risk_assessment.csv`, `users.csv`, `access_rules.csv`, `iso_controls.csv`) are present in the root project folder.
 2. Navigate to the `scripts/` folder.
-3. **Run Access Simulation:**
+3. **Run Access Simulation:** This will simulate role-based access control for all users and datasets defined in your CSV files and log access attempts.
 
 ---
 
