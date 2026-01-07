@@ -107,13 +107,9 @@ This simulation reflects a **cybersecurity advisory mindset** combined with **GI
 ### **4. Interactive Web App**
 - **Script:** `scripts/app.py`  
 - **Framework:** [Streamlit](https://streamlit.io/)  
-- **Features:**  
-  - User access simulation via **dropdown**  
-  - Interactive **risk level distribution charts**  
-  - ISO/IEC 27001 controls lookup per dataset  
+- **Features:** - User access simulation via **dropdown** - Interactive **risk level distribution charts** - ISO/IEC 27001 controls lookup per dataset  
   - Fully **data-driven from CSV files**, no hardcoding  
-- **Run Command:**  
-```bash streamlit run scripts/app.py
+- **Run Command:** `streamlit run scripts/app.py`
 
 ---
 
@@ -133,11 +129,10 @@ This simulation reflects a **cybersecurity advisory mindset** combined with **GI
 
 This project requires the following Python packages:
 
-pandas
-matplotlib
-plotly
-streamlit
-
+- pandas
+- matplotlib
+- plotly
+- streamlit
 
 ---
 
@@ -146,7 +141,6 @@ streamlit
 1. Ensure **all CSV files** (`risk_assessment.csv`, `users.csv`, `access_rules.csv`, `iso_controls.csv`) are present in the root project folder.
 2. Navigate to the `scripts/` folder.
 3. **Run Access Simulation:**
-
 
 ---
 
